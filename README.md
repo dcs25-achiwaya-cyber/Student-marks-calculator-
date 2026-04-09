@@ -27,10 +27,10 @@ This program calculates a student's final mark based on their coursework and exa
 ## Example
 
 Input:
-- Name: Chisomo Banda
-- ID: 20240042
-- Coursework: 68
-- Exam: 72
+- Name: Adrian chiwaya 
+- ID: DCS/25/PE/014
+- Coursework: 90
+- Exam: 76
 
 Output:
 - Final Mark: 70.0%
