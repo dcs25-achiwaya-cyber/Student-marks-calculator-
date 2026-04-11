@@ -29,11 +29,11 @@ This program calculates a student's final mark based on their coursework and exa
 Input:
 - Name: Adrian chiwaya 
 - ID: DCS/25/PE/014
-- Coursework: 90
-- Exam: 76
+- Coursework: 98
+- Exam: 98
 
 Output:
-- Final Mark: 70.0%
+- Final Mark: 98.0%
 - Grade: Credit
 
 ## Files included
