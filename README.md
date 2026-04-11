@@ -1,8 +1,8 @@
 # Student Mark Calculator
 
-**Name:** [Your Name]  
-**Student ID:** [Your ID]  
-**Date:** April 8, 2026
+**Name:** Adrian chiwaya 
+**Student ID:** DCS/25/PE/014  
+**Date:** April 11, 2026
 
 ## What the program does
 
