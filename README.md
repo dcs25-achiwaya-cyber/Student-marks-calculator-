@@ -24,10 +24,9 @@ After getting the final mark, the program checks it against a grading scale to a
 | Grade | Range              |
 |------|-------------------|
 | Distinction   | 75 - 100 |
-| B    | 65 - 74   |
-| C    | 50 - 64   |
-| D    | 40- 49    |
-| F    | 0 - 39    |
+| Credit       | 65 - 74   |
+| Pass         | 50 - 64   |
+| Fail         | 0 - 49    |
 
 1. The student’s coursework and exam marks are collected.
 2. The final mark is calculated (usually using a percentage formula).
