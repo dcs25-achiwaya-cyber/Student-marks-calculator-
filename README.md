@@ -8,7 +8,7 @@
 
 This program is used to calculate a student’s final mark using coursework and exam scores. It takes the two inputs, combines them equally, and produces one final result.
 
-
+After getting the final mark, the program checks it against a grading scale to assign a grade. The final output shows the student’s name, ID, mark, and grade in an easy-to-understand format.
 
 ## How it works
 
