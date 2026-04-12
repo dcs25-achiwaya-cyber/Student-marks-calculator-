@@ -38,12 +38,13 @@ Output:
 
 ## Limitations
 - the grading scale is unchangeable unless the actual code itself is modified 
--
--
--
+- it doesn't work for wrong inputs entered in the program
+- it has storage limitations since it does not save data processed
+- it capacity is limited for one student at a time
 
 ## Assumptions
--
--
--
--
+- marks entered are within specific acceptable range
+- the weighting of coursework and exam is  
+  Equally fixed at 50% respectively 
+- the users understands to interact with the program effectively
+- the user shall input data in the correct format(numbers only) 
