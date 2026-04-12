@@ -57,4 +57,4 @@ Output:
 - marks entered are within specific acceptable range
 - the weighting of coursework and exam is equally fixed at 50% respectively 
 - the user understands to interact with the program effectively
-- the user shall input data in the correct format(numbers only) 
+- the user shall input data in the correct format numbers only (marks must be numeric) 
