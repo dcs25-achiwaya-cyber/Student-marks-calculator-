@@ -21,9 +21,9 @@ After getting the final mark, the program checks it against a grading scale to a
 
 ## Grading scale
 
-| Grade | Range     |
-|------|-----------|
-| A    | 75 - 100  |
+| Grade | Range              |
+|------|-------------------|
+| Distinction   | 75 - 100 |
 | B    | 65 - 74   |
 | C    | 50 - 64   |
 | D    | 40- 49    |
