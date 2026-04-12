@@ -27,6 +27,11 @@ This program calculates a student's final mark based on their coursework and exa
 | D    | 40- 49    |
 | F    | 0 - 39    |
 
+1. The student’s coursework and exam marks are collected.
+2. The final mark is calculated (usually using a percentage formula).
+3. The final mark is checked against the grading scale.
+4. The corresponding grade is assigned automatically.
+
 The grading scale shows how student marks are converted into grades. Each grade represents a range of scores from A (excellent) to F (fail). This helps in evaluating student performance in a simple way.
 
 ## Example
