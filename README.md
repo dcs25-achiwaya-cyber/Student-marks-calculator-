@@ -26,15 +26,6 @@ This program calculates a student's final mark based on their coursework and exa
 | D    | 40- 49    |
 | F    | 0 - 39    |
 
-
-| Grade | Range     |
-|------|-----------|
-| A    | 75 - 100  |
-| B    | 65 - 74   |
-| C    | 50 - 64   |
-| D    | 40 - 49   |
-| F    | 0 - 39    |
-
 ## Example
 
 Input:
