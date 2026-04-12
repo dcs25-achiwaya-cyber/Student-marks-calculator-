@@ -18,6 +18,7 @@ This program calculates a student's final mark based on their coursework and exa
 6. Displays the results
 
 ## Grading scale
+
 | Grade | Range     |
 |------|-----------|
 | A    | 75 - 100  |
@@ -25,6 +26,7 @@ This program calculates a student's final mark based on their coursework and exa
 | C    | 50 - 64   |
 | D    | 40- 49    |
 | F    | 0 - 39    |
+
 
 ## Example
 
