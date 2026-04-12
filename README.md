@@ -1,8 +1,9 @@
 # Student Mark Calculator
 
 **Name:** Adrian chiwaya
-**Student ID:** DCS/25/PE/014  
-**Date:** April 11, 2026
+
+ **Student ID:** DCS/25/PE/014 
+ **Date:** April 11, 2026
 
 ## What the program does
 
