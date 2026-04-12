@@ -27,6 +27,7 @@ This program calculates a student's final mark based on their coursework and exa
 | D    | 40- 49    |
 | F    | 0 - 39    |
 
+The grading scale shows how student marks are converted into grades. Each grade represents a range of scores from A (excellent) to F (fail). This helps in evaluating student performance in a simple way.
 
 ## Example
 
