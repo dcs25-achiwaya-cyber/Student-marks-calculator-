@@ -44,8 +44,8 @@ Input:
 - Exam: 98
 
 Output:
-- Final Mark: 98.0%
-- Grade: A
+- Final Mark: 98%
+- Grade: Distinction
 
 ## Limitations
 - it doesn't keep data for records of results executed
