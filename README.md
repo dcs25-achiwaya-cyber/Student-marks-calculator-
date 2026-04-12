@@ -10,6 +10,13 @@ This program calculates a student's final mark based on their coursework and exa
 
 ## How it works
 
+1. First, the program collects the student’s name and ID.
+2. Then it takes coursework and exam marks as input.
+3. It computes the final score using equal weighting (50/50).
+4. The result is compared with the grading scale.
+5. A grade is assigned based on the final mark.
+6. The student’s details, mark, and grade are displayed.
+
 1. Gets student name and ID
 2. Gets coursework mark (out of 100)
 3. Gets exam mark (out of 100)
