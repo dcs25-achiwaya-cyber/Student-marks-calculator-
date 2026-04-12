@@ -44,7 +44,6 @@ Output:
 
 ## Assumptions
 - marks entered are within specific acceptable range
-- the weighting of coursework and exam is  
-  Equally fixed at 50% respectively 
+- the weighting of coursework and exam is equally fixed at 50% respectively 
 - the users understands to interact with the program effectively
 - the user shall input data in the correct format(numbers only) 
