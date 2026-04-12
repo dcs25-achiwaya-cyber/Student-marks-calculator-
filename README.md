@@ -28,7 +28,7 @@ After getting the final mark, the program checks it against a grading scale to a
 | Pass          | 50 - 64  | 
 | Fail          | 0 - 49   |
 
-1. 
+1. The program receives students coursework and marks as input. 
 2. The final mark is calculated (usually using a percentage formula).
 3. The final mark is checked against the grading scale.
 4. The corresponding grade is assigned automatically.
