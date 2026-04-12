@@ -54,7 +54,7 @@ Output:
 - Its capacity is limited for one student at a time
 
 ## Assumptions
-- Marks entered are within specific acceptable range (0-100) 
+- Marks entered are within a specific acceptable range (0-100) 
 - The weighting of coursework and exam is equally fixed at 50% respectively 
 - The user understands to interact with the program effectively
 - The user shall input data in the correct format numbers only (marks must be numeric) 
