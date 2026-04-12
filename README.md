@@ -17,13 +17,6 @@ This program calculates a student's final mark based on their coursework and exa
 5. A grade is assigned based on the final mark.
 6. The student’s details, mark, and grade are displayed.
 
-1. Gets student name and ID
-2. Gets coursework mark (out of 100)
-3. Gets exam mark (out of 100)
-4. Calculates final mark using: coursework × 50% + exam × 50%
-5. Assigns grade based on final mark
-6. Displays the results
-
 ## Grading scale
 
 | Grade | Range     |
