@@ -46,7 +46,7 @@ Input:
 
 Output:
 - Final Mark: 98.0%
-- Grade: Distinction 
+- Grade: A
 
 ## Limitations
 - it doesn't keep data for records of results executed
