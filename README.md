@@ -37,9 +37,9 @@ Output:
 - Grade: Distinction 
 
 ## Limitations
+- it doesn't keep data for records of results executed
+- the system may display errors for incorrect data inputs e.g. Letters
 - the grading scale is unchangeable unless the actual code itself is modified 
-- it doesn't work for wrong inputs entered in the program
-- it has storage limitations since it does not save data processed
 - it capacity is limited for one student at a time
 
 ## Assumptions
