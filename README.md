@@ -37,7 +37,7 @@ Output:
 - Grade: Distinction 
 
 ## Limitations
--The grading scale is unchangeable unless  
+-the grading scale is unchangeable unless  
  the actual code itself is modified 
 -
 -
