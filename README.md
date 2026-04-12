@@ -18,11 +18,14 @@ This program calculates a student's final mark based on their coursework and exa
 6. Displays the results
 
 ## Grading scale
+| Grade | Range     |
+|------|-----------|
+| A    | 75 - 100  |
+| B    | 65 - 74   |
+| C    | 50 - 64   |
+| D    | 40- 49    |
+| F    | 0 - 39    |
 
-- 75-100: Distinction
-- 65-74: Credit
-- 50-64: Pass
-- Below 50: Fail
 
 | Grade | Range     |
 |------|-----------|
