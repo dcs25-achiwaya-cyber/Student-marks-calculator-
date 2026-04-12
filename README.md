@@ -48,13 +48,13 @@ Output:
 - Grade: Distinction
 
 ## Limitations
-- it doesn't keep data for records of results executed
+- it does not keep data for records of results executed
 - the system may display errors for incorrect data inputs e.g. Letters
 - the grading scale is unchangeable unless the actual code itself is modified 
-- it capacity is limited for one student at a time
+- its capacity is limited for one student at a time
 
 ## Assumptions
 - marks entered are within specific acceptable range
 - the weighting of coursework and exam is equally fixed at 50% respectively 
-- the users understands to interact with the program effectively
+- the user understands to interact with the program effectively
 - the user shall input data in the correct format(numbers only) 
