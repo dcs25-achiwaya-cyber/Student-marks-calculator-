@@ -33,7 +33,7 @@ After getting the final mark, the program checks it against a grading scale to a
 3. The final mark is checked against the grading scale.
 4. The corresponding grade is assigned automatically.
 
-The grading scale shows how student marks are converted into grades. Each grade represents a range of scores from A (excellent) to F (fail). This helps in evaluating student performance in a simple way.
+The grading scale shows how student marks are converted into grades. Each grade represents a range of scores from Distinction, Credit, Pass, Fail. This helps in evaluating student performance in a simple way.
 
 ## Example
 
